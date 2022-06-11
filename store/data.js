@@ -3,7 +3,7 @@ module.exports = {
   coltrane: {
     firstName: 'John',
     lastName: 'Coltrane',
-    genre: 'JAZZ',
+    genre: 'JAZZ mussic',
   },
 
   davis: {
